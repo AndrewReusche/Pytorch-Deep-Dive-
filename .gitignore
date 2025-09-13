@@ -8,8 +8,11 @@ data/
 *.DS_Store
 *.ipynb_checkpoints
 
+
 #other
 hidden/
+*.pth
+*.gz
 
 
 
